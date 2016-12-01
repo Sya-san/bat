@@ -10,11 +10,16 @@
 
                                                 TERMINAL LOGIN
 
-#Username: Steins Gate
-#Password: * * * * * *
+Username: Steins Gate
 
-#Authenticated Users
+Password: * * * * * *
 
-#sern>
-#sern> report
-#Please wait...
+
+Authenticated Users
+
+
+sern>
+
+sern> report
+
+Please wait...
