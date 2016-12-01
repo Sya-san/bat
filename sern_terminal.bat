@@ -1,15 +1,15 @@
 @echo off
-echo			SSSSSSSEEEEEEERRRRRRRNNNNNNNN
-echo			SS   SSE     E     RR NNNNN N
-echo			S SSS SE EEEEE RRRR R  NNNN N
-echo			SS SSSSE EEEEE     RR N NNN N
-echo			SSS SSSE     E R RRRR NN NN N
-echo			SSSS SSE EEEEE RR RRR NNN N N
-echo			S SSS SE EEEEE RRR RR NNNN  N
-echo			SS   SSE     E RRRR R NNNNN N
-echo			SSSSSSSEEEEEEERRRRRRRNNNNNNNN
+echo						SSSSSSSEEEEEEERRRRRRRNNNNNNNN
+echo						SS   SSE     E     RR NNNNN N
+echo						S SSS SE EEEEE RRRR R  NNNN N
+echo						SS SSSSE EEEEE     RR N NNN N
+echo						SSS SSSE     E R RRRR NN NN N
+echo						SSSS SSE EEEEE RR RRR NNN N N
+echo						S SSS SE EEEEE RRR RR NNNN  N
+echo						SS   SSE     E RRRR R NNNNN N
+echo						SSSSSSSEEEEEEERRRRRRRNNNNNNNN
 echo.
-echo 			TERMINAL LOGIN
+echo 						TERMINAL LOGIN
 
 echo.
 set /p a=Username: <nul
